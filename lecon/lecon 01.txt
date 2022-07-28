@@ -1,0 +1,27 @@
+01.  je suis / yo soy o yo estoy
+02.  un etudiant / un estudiante
+
+		Je suis un etudiant / Yo soy un estudiante
+		
+		U= labios redondos
+
+03.   je m'appelle / yo me llamo
+
+		yo me llamo cesar / je m'appelle cesar
+		yo soy un estudiante / je suis un etudiant
+
+		U= labios redondos
+		E= labios redondos
+
+04	  il est / él es o él esta
+
+		il est un etudiant / él es un estudiante
+		je suis Cesar / yo soy cesar
+		il est Jacques / el es Jacques
+		
+05.    il s'appelle / él se llama
+
+		il est un etudiant / el es un estudiante
+		il s'appelled Pierre / el se llama pierre
+		je suis Cesar / yo soy cesar
+		je suis un etudiant / yo soy un estudiante
