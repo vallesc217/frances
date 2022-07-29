@@ -14,8 +14,8 @@ lecon 02
 	Bonjour Pierre
 
 4. Comment vas-tu / como estas o como vas
-	   [va]	
-
+      [e]  [va]	
+      [cerrada]
 	Il s'appeled Paul / él se llama Paul
 	Comment vas-tu Paul / como te va Paul
 	Paul est un étudiant / Paul es un estudiante
