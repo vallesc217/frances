@@ -1,0 +1,9 @@
+1. Je suis Pierre
+2. Je suis un étudiant
+3. Je m'appelle Marie
+4. Il est un étudiant
+5. Elle est une étudiante
+6. Il s'appelle Jacques
+7. Elle s'appelle Marie
+8. Bonjour! Comment vas-tu?
+9. Je vais bien!
