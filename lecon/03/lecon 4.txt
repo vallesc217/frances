@@ -12,44 +12,39 @@ il/elle va - él/ella va
    [ell]
 
 como va jeanne? / comment va Jeanne?
-ella esta bien / elle c'est bien
-donde esta Pierre? / oú c'est Pierre?
-A donde vas tu? / Oú vas tu?
+ella esta bien / elle va bien
+donde esta Pierre? / oú est Pierre?
+A donde vas tu? / Oú vas-tu?
 A donde va Pierre? / Oú va Pierre?
-                  [e]
+                 
 				  
 
-1. Comment va  / como va
-	Comment va Janet?
-	Comment va Pierre
+1. Salut  / Hola (informal)
+	Hola. Como vas tu?/ Salut. Comment vas-tu?
+	Yo estoy bien / Je vais bien
 	
-2. Il / elle va bien
-	Comment va Janet?
-	Ella esta bien / Elle va bien
+2. au cinema / al cine
+   [o]
+	A donde va Jeanne? / Oú va jeanne?
+	Ella va au cinema / Elle va au cinema
+	A donde vas tu? / Oú vas-tu?
+	al cine / Au cinema 
 	
-	Comment va Pierre
-	il va bien
-	
-3. oú / donde	o + ú = u
-   [u]
-   
-	donde esta Jeanne? / Ou est jannet
-		
-	Buenos dias,Pierre / bonjour Pierre!
-	
-	Donde está Paul? / Ou est Paul?
+3. Je vais / yo voy
+      a+is= é
+	a donde vas tu? / au vas-tu?
+	yo voy al cine / Je vais au cinema
+	ella va al cine / elle va au cinema
+	él va al cine / il va au cinema
 
-4. tu vas / vas-tu?
-   tu vas   ¿tu vas?
+4. á la poste / a correos
+	a donde va Pierre? / Oú va Pierre?
+	él va a correos / il va á la poste?
+	Yo voy a correos / Je vais á la poste
    
-   como vas tú, Pierre? / comment vas-tu Pierre?
-   a donde vas tu?  /  Oú vas-tu?
-   
-5. maintenant / ahora
-	a donde va Marie ahora?  / Oú va Maria maintenant
-	a donde va Pierre ahora? / Oú va Pierre maintenant
-	Como va Pierre? / Comment va Pierre?
-	El va bien / il va bien
+5. chez moi / en/a mi casa
+	yo voy a mi casa  / Je vais chez moi
+	yo estoy en mi casa / je suis chez moi
 	
 	
    
