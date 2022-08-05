@@ -1,0 +1,55 @@
+salut / hola
+au cinema / al cine
+je veis / yo voy
+a la poste / a correo
+chez moi / a mi casa
+
+hola como vas tu?
+salut Comment vas-tu?
+
+el va al cine
+il va au cinema
+
+yo voy al cine
+je vais au cinema
+
+ella va correo
+elle va a la poste
+
+voy a mi casa
+je vais chez moi
+
+
+lecon 5
+
+nous allons / nosotros vamos
+
+	nosotros vamos al cine
+	nous allons au cinema
+
+	nosotros vamos a correo
+	nous allons a la poste
+
+il/elles vont / ellos/ellas van
+
+	ellos van al cine / ils vons au cinema
+	ellas van al cine / elle vons au cinema
+
+que / que
+
+	que soy yo?  /  que suis je ?
+	soy un estudiante / je suis un etudiant
+
+tu fais / fais-tu? // tu haces / tu haces?
+	que haces tu / que fais-tu?
+	yo voy a correo / je vais a la poste
+	yo voy a mi casa / je vais chez moi
+
+il/elle fait / el /ella hace
+	que hace el? / que fait-il?
+	el va a correo / il va a la poste
+	que hace ella / que fait-elle?
+
+ella va a mi casa
+	elle va chez moi
+
