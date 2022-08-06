@@ -1,0 +1,10 @@
+grupo: Stefany y Cesar
+
+C- 	Bonjour! Je m'appelle Cesar. Comment vous vous appellez?
+S- 	Bonjour! Je m'appelle Stefany. Enchantée.
+C- 	Enchanté Stefany, et dis-moi ce que vous eimer?
+S- 	J'aime dessiner, et qu'est-ce que vous aimez?
+C- 	J'aime marcher et faire du sport
+S- 	Trés bien. Bon, ben, A plus tard!
+C-	Au revoir Stefany.
+S- 	Au revoir!
