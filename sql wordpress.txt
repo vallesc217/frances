@@ -1,0 +1,31 @@
+kubectl cordon pnhbkp08  ( tomarlo de la lista anterior)
+	
+for j in $(kubectl -n nhbk get pods -o wide| grep pnhbkp08 | awk '{print $1}')
+do
+kubectl -n nhbk delete pods $j
+done
+	
+for j in $(kubectl -n mbbk get pods -o wide| grep pnhbkp08 | awk '{print $1}')
+do
+kubectl -n mbbk delete pods $j
+done
+	
+for j in $(kubectl -n mbrk get pods -o wide| grep pnhbkp08 | awk '{print $1}')
+do
+kubectl -n mbrk delete pods $j
+done
+
+	Hacer el cambio de Parchado :
+
+		--tus cambios en el servidor ya acordonado y sin pods--
+
+	Desacordonar nodo:
+kubectl uncordon pnhbkp08
+
+UPDATE wp4n_options SET option_value = REPLACE ( option_value, 'lab.ikigaimarketer.com/web', 'ikigaimarketer.com' );
+ 
+UPDATE wp4n_posts SET guid = REPLACE ( guid, 'lab.ikigaimarketer.com/web', 'ikigaimarketer.com' );
+ 
+UPDATE wp4n_posts SET post_content = REPLACE ( post_content, 'lab.ikigaimarketer.com/web', 'ikigaimarketer.com' );
+ 
+UPDATE wp4n_postmeta SET meta_value = REPLACE ( meta_value, 'lab.ikigaimarketer.com/web', 'ikigaimarketer.com' );
