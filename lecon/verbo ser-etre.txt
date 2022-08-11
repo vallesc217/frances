@@ -1,0 +1,41 @@
+la mére  /  la madre
+le fils / el hijo
+la fille / la hija
+lé pére / el padre
+
+c'est mon pére / este es mi padre
+c'est ma mére / esta es mi madre
+c'est mon fils / este es mi hijo
+c'est ma fille / esta es mi hija
+
+Bonsoir / buenas noches llegada
+salut / hola
+
+étre /ser
+
+presente
+Je suis / yo soy
+tu es / tu eres
+il est / él es
+elle est / ella es
+Nous sommes / nosotros somos
+vous étes / vosotros sois
+ils sont / ellos son
+
+pasado
+J'ai eté
+tu as été
+il a éte
+elle a eté
+nous avon été
+vous avez été
+ils ont été
+
+futuro
+Je serai
+tu seras
+il sera
+elle sera
+nous serons
+vous serez
+ils seront
