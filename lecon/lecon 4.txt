@@ -1,0 +1,14 @@
+aider / ayudar
+toilettes / inodoro
+arréter / parar
+(une)entrée / entrada
+
+Je suis perdu / Estoy perdido
+Pouvez-vous m'aider? / Me puedes ayudar
+Nous nous sommes perdus / no hemos perdido
+Etes-vous perdue? / Se ha perdido?
+Oú sont les toilettes? / Donde estan los servicios?
+Oú est la sortie? / Donde está la salida?
+Oú est l'ascensor? / Donde esta el ascensor?
+Oú est l'entrée? / Donde esta la entrada?
+Arrétez / Para
