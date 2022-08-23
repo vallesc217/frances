@@ -1,0 +1,34 @@
+Bonjour
+	Salut
+
+Que desirez-vous? | que querrías?
+	Deux billet. S'il vous plait
+
+Aller simple, ou aller-retour? | solo ida o idad y vuelta?
+
+Premieré classe ou secunde classe? | Primera clase o segunda clase?
+	Primieré classe
+
+Avez-vous une preference au niveau de la place?/ Tiene alguna preferencia en cuanto a los asientos
+	une place coté fenetre | asiento de ventana
+	non
+	Je voudrais une place cote couloir | quisiera un asiento aislado
+
+Veuillez patienter pandant que je verifie | espere, por favor voy a verificar
+autre choise?| algo más o otra cosa?
+	Cambien coute un billete, sil vous plait?
+
+6, sil vous plait
+	D'accord
+	un moment, s'il vous plait
+	voici | aqui tiene
+
+d'accord. Comment desirez-vous payer | de acuerdo. como desea pagar?
+	en liquide | dinero efectivo
+	par carte de credit | con tarjeta de credito
+
+merci
+voici votre monnaie | aqui tiene su cambio
+	merci. Au revoir.
+	
+
