@@ -1,0 +1,51 @@
+mariage / matrimonio
+divorce / divorcio
+petit amie  / novia
+beau / precioso
+je t'aime / yo te amo
+celebataire / soltero
+Je suis celebataire / yo soy soltero
+J'ai une petit amie / tengo novia
+Je suis marié / estoy casado
+Je suis divorce / estoy divorciado
+Je ne suis pas interesse / no me interesa
+Es-tu celibataire? / estas soltera?
+Il l'aime / El la ama
+Je t'aime bien / me gustas
+Je t'aime beaucoup / me gustas mucho.
+
+aimer | amar
+
+j'aime / yo amo
+tu aimes / tu amas
+Il, Elle aime / el, ella ama
+nous aimons / nosotros amamos
+vous aimez / vosotros amais
+ils aiment / ellos aman
+
+etre / ser
+
+je suis / yo soy
+tu es / tu eres
+ils elle est / el ella es
+nous sommes / nosotros somos
+vous etes / vosotros sois
+ils sont / ellos son
+
+epouser / casarse
+
+j'épouse / yo me caso
+tu épouse / tu te casas
+il elle epouse / el ella se casa
+nous epousons / nosotros nos casamos
+vous épousez / vosotros os casais
+ils epousent / ellos se casan
+
+avoir | tener
+j'ai / yo tengo
+tu as / tu tienes
+il elle a / el ella tiene
+nous avons / nosotros tenemos
+vous avez / vosotros teneis
+ils ont / ellos tienen
+
