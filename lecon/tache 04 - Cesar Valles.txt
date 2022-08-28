@@ -1,0 +1,14 @@
+Luisa travaille au Pérou
+Familier:	Luisa travaille au Pérou?
+
+Standard:	Est-ce que Luisa travaille au Pérou?
+
+Soutenu:	Luisa travaille-t-elle au Pérou?
+
+
+Juan habite à Lima (où)
+Familier:	Juan habite á Lima oú?
+
+Standard:	Oú est-ce que Juan habite á Lima?
+
+Soutenu:	Oú habite-Juan á Lima?
