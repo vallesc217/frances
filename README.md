@@ -5,4 +5,4 @@ Se crear el siguiente repositorio para almacenar las guias del aprendizaje del i
 logrando asi una ubicacion única para llevar ordenadamente y de forma protocolar la adquisición
 del idioma.
 Se realizo presentacion de la ciudad de Marseilla
-se debe continuar con las practicas.
+se debe continuar con las practicas y se retomaran las subidas del archivo.
